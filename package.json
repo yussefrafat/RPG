@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG ",
+  "main": "app.js",
+  "scripts": {
+    "jest": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yussefrafat/RPG.git"
+  },
+  "author": "Yussef Rafat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yussefrafat/RPG/issues"
+  },
+  "homepage": "https://github.com/yussefrafat/RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
